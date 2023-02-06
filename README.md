@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2> Hi there traveler! I'm Alwar, you can feel yourself comfortable!</h2>
+<p><em>Software Engineer at... ups, currently searching!!</p>
 
-<!--
-**AlwarMra/AlwarMra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Twitter Follow](https://img.shields.io/twitter/follow/alwarmra?label=Follow)
+[![Linkedin: alwarmra](https://img.shields.io/badge/-alwarmra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alwarmra/)](https://www.linkedin.com/in/alwarmra/)
 
-Here are some ideas to get you started:
+A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const alwar = {
+    code: ["Javascript", "Typescript"],
+    askMeAbout: ["web dev", "tech", "books", "sci-fi"],
+    technologies: {
+        frontEnd: {
+            js: ["ReactJS"],
+            css: ["Tailwind", "css modules", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+        },
+        databases: ["mongo"],
+        misc: ["Firebase", "Shopify", "e-commerce"]
+    },
+}
+```
