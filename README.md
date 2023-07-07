@@ -12,13 +12,13 @@ const alwar = {
     askMeAbout: ["web dev", "tech", "books", "sci-fi"],
     technologies: {
         frontEnd: {
-            js: ["ReactJS"],
+            js: ["ReactJS", "NextJS", "Vue"],
             css: ["Tailwind", "css modules", "bootstrap"]
         },
         backEnd: {
             js: ["node", "express"],
         },
-        databases: ["mongo"],
+        databases: ["mongo", "SQL"],
         misc: ["Firebase", "Shopify", "e-commerce"]
     },
 }
